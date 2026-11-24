@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00cc99&style=flat" />
+  <a href="https://github.com/Shahzad-devpro">
+    <img src="https://komarev.com/ghpvc/?username=Shahzad-devpro&label=Profile+Views&color=00cc99&style=flat" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,php,mysql,mongodb,git,github,vscode,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,expressjs,python,postgresql,mysql,mongodb,git,github,postman,vscode&perline=6" />
 </p>
 
 ---
@@ -36,12 +36,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shahzad-devpro&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad-devpro&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Shahzad-devpro&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahzad-devpro&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Shahzad-devpro/Shahzad-devpro/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,flutter,go&perline=4" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,go&perline=4" />
 </p>
 
 ---
@@ -73,13 +73,13 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Shahzad-devpro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/devwithShahzad">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:shahzad.devpro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
