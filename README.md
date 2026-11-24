@@ -105,7 +105,6 @@ problems through development and AI automation.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shahzad-devpro&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99&icon_color=00FF99" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad-devpro&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF99" />
 </p>
 
@@ -115,11 +114,7 @@ problems through development and AI automation.
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahzad-devpro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
 
 ---
 
